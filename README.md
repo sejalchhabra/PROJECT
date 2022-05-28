@@ -12,6 +12,10 @@ pip install opencv-contrib-python
 pip install numpy
 pip install pyttsx3
 
+DATABASE:
+For the database purpose, i have used mysql workbench the database files are included in the project 
+create your connection and accordingly change the connectionname and password and database name.
+
 START:
 start i.e the first page is face_recognition_attendance_software.py
 
