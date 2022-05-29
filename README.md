@@ -1,4 +1,4 @@
-# Face Recognition attendace system
+# Face Recognition attendace system                                                             
 A brief description of what this project does and who it's for FACE RECOGNITION ATTENDANCE SYSTEM- It is a real time project for marking attendace of the students or employees. created an admin login interface i.e. one can alter like add, update, delete or reset the details
 
 
@@ -24,6 +24,10 @@ start i.e the first page is face_recognition_attendance_software.py
 
 NOTE:
 when adding a student, studentid must be kept in sequence i.e.1 2 3 4 already added are 1 2 3 when adding adding makesure sequence goes on...
+                                       
+                                                                                                                           SEJAL
+                                                                                                                          [linkedin](https://www.linkedin.com/in/sejal-chhabra/)
+                                                                                                                                  
 
 Mainpage:
 ![1](https://user-images.githubusercontent.com/97884777/170883876-76a689a1-41b3-4f6e-83cb-8579c4d8cb45.png)
@@ -54,6 +58,5 @@ Developer details:
 
 
 
-SEJAL
-[linkedin](https://www.linkedin.com/in/sejal-chhabra/)
+
 
