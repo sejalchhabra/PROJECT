@@ -55,4 +55,7 @@ Developer details:
 
 MY DETAILS:
 SEJAL
-[link](https://www.linkedin.com/in/sejal-chhabra/)
+
+[linkedin](https://www.linkedin.com/in/sejal-chhabra/)
+
+[email] (sejalchhbara@gmail.com)
