@@ -24,9 +24,8 @@ start i.e the first page is face_recognition_attendance_software.py
 
 NOTE:
 when adding a student, studentid must be kept in sequence i.e.1 2 3 4 already added are 1 2 3 when adding adding makesure sequence goes on...
-                                       
-                                                                                                                           SEJAL
-                                                                                                                          [linkedin](https://www.linkedin.com/in/sejal-chhabra/)
+                                                                                                               SEJAL
+                                                                                                               [linkedin](https://www.linkedin.com/in/sejal-chhabra/)
                                                                                                                                   
 
 Mainpage:
