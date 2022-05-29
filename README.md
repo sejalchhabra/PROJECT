@@ -1,5 +1,5 @@
 # Face Recognition attendace system                                                             
-A brief description of what this project does and who it's for FACE RECOGNITION ATTENDANCE SYSTEM- It is a real time project for marking attendace of the students or employees. created an admin login interface i.e. one can alter like add, update, delete or reset the details
+FACE RECOGNITION ATTENDANCE SYSTEM- It is a real time project for marking attendace of the students or employees. created an admin login interface i.e. one can alter like add, update, delete or reset the details
 
 
 REQUIREMENTS:
