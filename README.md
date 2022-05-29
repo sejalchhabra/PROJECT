@@ -53,9 +53,7 @@ Developer details:
 ![9](https://user-images.githubusercontent.com/97884777/170884095-d4b989e5-8556-4dbd-bf80-b42bc8f745fd.png)
 
 
-MY DETAILS:
-SEJAL
 
+SEJAL
 [linkedin](https://www.linkedin.com/in/sejal-chhabra/)
 
-[email] (sejalchhbara@gmail.com)
