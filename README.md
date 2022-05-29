@@ -1,6 +1,7 @@
 # Face Recognition attendace system
 A brief description of what this project does and who it's for FACE RECOGNITION ATTENDANCE SYSTEM- It is a real time project for marking attendace of the students or employees. created an admin login interface i.e. one can alter like add, update, delete or reset the details
 
+
 REQUIREMENTS:
 
 Python 3.8.5
@@ -13,11 +14,15 @@ pip install numpy
 pip install pyttsx3
 
 DATABASE:
+
 For the database purpose, i have used mysql workbench the database files are included in the project 
 create your connection and accordingly change the connectionname and password and database name.
 
 START:
+
 start i.e the first page is face_recognition_attendance_software.py
 
 NOTE:
 when adding a student, studentid must be kept in sequence i.e.1 2 3 4 already added are 1 2 3 when adding adding makesure sequence goes on...
+
+![1](https://user-images.githubusercontent.com/97884777/170883876-76a689a1-41b3-4f6e-83cb-8579c4d8cb45.png)
